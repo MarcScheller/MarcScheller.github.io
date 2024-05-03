@@ -97,12 +97,12 @@ img {
 	}
 	
 	body {
-	background: #5858FA url("https://photofolia.com.br/wp-content/uploads/2016/12/bg_low.jpg") fixed;
+	background: #5858FA url("bg_low.jpg") fixed;
 	margin: 0;  
 	}
 	
 	li {
-		background: #eeeeee url("https://raw.githubusercontent.com/dev-planet-germany/pikachu-projekt/main/bilder/pokeball.png");
+		background: #eeeeee url("pokeball.png");
 		background-size: 3%;
 		background-repeat: no-repeat;
 		background-position: 1.5% center;
